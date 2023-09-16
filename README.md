@@ -1,1 +1,1 @@
-# bluej-spielwiese
+Ein BlueJ-Projekt (https://www.bluej.org/), um herauszufinden, was man damit alles tun kann.
